@@ -4,7 +4,7 @@ Restful API Manga bahasa Indonesia built with ❤️ and Go
 # Usage
 1. Clone this repository
     ```bash
-    git clone https://github.com/Romi666/komikku-api.git
+    git clone https://github.com/LuckyIndraEfendi/Komikku-Rest-Api.git
     ```
 2. Init module
     ```
